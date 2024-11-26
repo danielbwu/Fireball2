@@ -1,3 +1,19 @@
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/InfinityBladeAdversaries
+/Content/InfinityBladeFireLands
+/Content/InfinityBladeGrassLands
+/Content/InfinityBladeIceLands
+/Content/InfinityBladeWarriors
+/Content/QuadrapedCreatures
+/Content/StarterContent
+/Content/Kraken
+/Content/FourEvilDragonsPBR
+
 # Visual Studio 2015 user specific files
 .vs/
 
