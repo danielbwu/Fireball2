@@ -17,6 +17,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Get_Thumbnails",
+			"Enabled": false
 		}
 	]
 }
