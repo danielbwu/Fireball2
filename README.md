@@ -13,10 +13,11 @@
 
 <h2>Asset Credits</h2>
 <ul>
-  <li><a href="https://fab.com/s/0cf18c15a659" target="_blank">Kraken — PROTOFACTOR INC</a></li>
-  <li><a href="https://fab.com/s/63a078bb2dd7" target="_blank">Quadruped Fantasy Creatures — PROTOFACTOR INC</a></li>
-  <li><a href="https://fab.com/s/e6871dd1b62c" target="_blank">Stylized Environment Pack — Forge of Fantasy</a></li>
-  <li><a href="https://fab.com/s/39d71e8de29d" target="_blank">Modular Dungeons - Medieval Pack — SwordsmanCiTy</a></li>
+  <li><a href="https://fab.com/s/0cf18c15a659" target="_blank">Kraken</a> — PROTOFACTOR INC</li>
+  <li><a href="https://fab.com/s/63a078bb2dd7" target="_blank">Quadruped Fantasy Creatures</a> — PROTOFACTOR INC</li>
+  <li><a href="https://fab.com/s/e6871dd1b62c" target="_blank">Stylized Environment Pack</a> — Forge of Fantasy</li>
+  <li><a href="https://fab.com/s/39d71e8de29d" target="_blank">Modular Dungeons - Medieval Pack</a> — SwordsmanCiTy</li>
+  <li><a href="https://opengameart.org/content/rpg-gui-construction-kit-v10" target="_blank">RPG GUI construction kit</a> — Lamoot</li>
   <li>Grid materials were built based on the <a href="https://github.com/techarthub/ue5-grid-material" target="_blank">ue5-grid-material</a> by <a href="https://techarthub.com/making-a-procedural-grid-material-in-unreal-engine/" target="_blank">techarthub</a> (Licensed under UE5 EULA)</li>
   
 </ul>
